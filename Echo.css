@@ -1,0 +1,59 @@
+.home{
+    background: url(img/mixer-gb00870932_1920.jpg);
+    height: 47em;
+    padding-top: 5em;
+}
+.aa{
+    font-weight: bolder;
+    font-size: 4em;
+    font-style: italic;
+}
+.im-2{
+    height: 23em;
+}
+.pr-1{
+    font-size: 5em;
+    font-weight: bolder;
+    font-style:oblique;
+}
+.sp{
+    color:  rgb(226, 233, 240);
+    font-size: 3em;
+    font-weight: bolder;
+}
+.spl{
+    color: white;
+    font-size: 2em;
+    font-weight: bolder;
+}
+.se-2{
+    background:wheat ;
+}
+.card-img-top{
+    height: 20em;
+
+}
+.se-3{
+    background-color:blanchedalmond;
+    color:tomato;
+    font-style: italic;
+    font-weight: bolder;
+}
+.se-5{
+    padding: 1em;
+}
+.btn-primary{
+    border-radius: 5em;
+    background-color: sienna;
+}
+.btn-2{
+    background-color: chartreuse;
+    font-weight: bolder;
+    font-style: initial;
+    color: #000;
+    float: left;
+    height: 2em;
+}
+.aa{
+    float: left;
+}
